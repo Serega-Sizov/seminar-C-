@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Задача001_число_в_квадрат/1.0.0": {
+        "runtime": {
+          "Задача001_число_в_квадрат.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Задача001_число_в_квадрат/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
